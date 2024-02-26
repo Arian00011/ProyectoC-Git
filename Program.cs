@@ -11,7 +11,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 public class Habitacion
 {
-    private int numero; //Representa el número de la habitación.
+    private int numero; //Representa el número de la habitación. hi Prueba 1 Git
     private string tipo; // Representa el tipo de habitación (puede ser "Doble", "Individual", etc.).
     private decimal precio; //Precio de la habitación.
     private bool disponible; //Un indicador booleano que representa si la habitación está disponible o no.
