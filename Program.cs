@@ -283,7 +283,7 @@ class Program
                     Console.WriteLine("Saliendo del programa. ¡Hasta luego!");
                     return;
                 default:
-                    Console.WriteLine("Opción no válida. Inténtelo de nuevo.");
+                    Console.WriteLine("Opción no válida. Inténtelo de nuevo..");
                     break;
             }
         }
